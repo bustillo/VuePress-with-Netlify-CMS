@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /media/VuePress_+_Netlify_CMS.png
-heroText: VuePress + Netlify CMS...
+heroText: VuePress + Netlify CMS..
 tagline: A starter template for your JAMstack website
 actionText: Get Started →
 actionLink: /guide/
