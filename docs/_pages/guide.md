@@ -74,7 +74,7 @@ After build the folder to deploy is `docs/.vuepress/dist`
 
 ## Read the docs
 
-[Official VuePress guide](https://vuepress.vuejs.org/guide/)
+Official VuePress guide
 
 [VuePress default theme config](https://vuepress.vuejs.org/theme/default-theme-config.html)
 
