@@ -4,8 +4,7 @@ description: How to use this template to create your new VuePress site, deploy
   it to Netlify and connect up your CMS.
 permalink: /:slug
 ---
-
-# How to use this template
+# How to **use** this template...
 
 ## Get started
 
@@ -89,6 +88,6 @@ This template is default VuePress - so please give your [skills](https://github.
 
 Pete Davis
 
-- Website: [petedavis.dev](https://petedavis.dev)
-- Github: [@petedavisdev](https://github.com/petedavisdev)
-- Twitter: [@petedavisdev](https://twitter.com/petedavisdev)
+* Website: [petedavis.dev](https://petedavis.dev)
+* Github: [@petedavisdev](https://github.com/petedavisdev)
+* Twitter: [@petedavisdev](https://twitter.com/petedavisdev)
